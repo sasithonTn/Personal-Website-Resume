@@ -1,0 +1,103 @@
+#title{
+  background-color: #607EAA;
+}
+body{
+  margin : 0px;
+}
+
+h1{
+  margin-top: 0px;
+  color: white;
+  font-family: 'Freehand', cursive;
+}
+h2{
+  font-family: 'Freehand', cursive;
+  font-size: 2.5rem;
+}
+h3{
+  color: #1746A2;
+  padding: 1% 0;
+  text-align: center;
+}
+h4{
+  color: white;
+  font-family: 'Freehand', cursive;
+}
+hr{
+  border-style: dotted none none;
+  width: 50%;
+  margin: 0 25% 1% 25%;
+  border-color: #7FBCD2;
+  border-width: 10px;
+}
+nav{
+  font-family: 'Mitr', sans-serif;
+}
+p{
+  font-size:18px;
+  text-align: center;
+  font-family: 'Mitr', sans-serif;
+}
+.top-container{
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.profile-image{
+  width: 20%;
+  margin-bottom: 1%;
+}
+
+.circular {
+  border-radius: 100%;
+}
+.middle-container{
+  font-family: 'Mali', cursive;
+}
+
+.profile{
+  font-size: 1.125rem;
+  padding: 4% 15%;
+  text-align: center;
+}
+
+
+.skills{
+  padding: 4% 15%;
+}
+.mySkills{
+  background-color: #C4DDFF;
+  color: #002B5B;
+  font-size: 2rem;
+  font-family: 'Mitr', sans-serif;
+  padding: 2% 0;
+  margin: 0 15%;
+  text-align: center;
+}
+.text-right{
+  text-align: right;
+}
+.skills-img{
+  background-color: #EEEEEE;
+  height: 9.375rem;
+  margin: 5% 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bottom-container{
+  background-color: #C4DDFF;
+  font-family: 'Mitr', sans-serif;
+  text-align: center;
+}
